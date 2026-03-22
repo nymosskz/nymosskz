@@ -43,38 +43,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 </div>
 
-## stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nymosskz&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true&bg_color=0d0d1a&title_color=c77dff&icon_color=4cc9f0&text_color=f0f0ff" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymosskz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c77dff&text_color=f0f0ff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nymosskz&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c77dff&fire=ff4d6d&currStreakLabel=4cc9f0&sideLabels=f0f0ff&dates=6b6d98" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
-</div>
-
-## actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nymosskz&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=c77dff&line=4cc9f0&point=ff4d6d" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
-</div>
-
 <div align="center">
 
 <br>
@@ -82,7 +50,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nymosskz.nymosskz&left_color=1a1a2e&right_color=c77dff&left_text=visitors" />
 
 <br><br>
-/* the best code is the one that runs at 3am without waking anyone up */
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=6B6D98&center=true&vCenter=true&width=600&lines=the+best+code+runs+at+3am+without+waking+anyone+up" alt="footer" />
+
 <br>
 
 *built in the dark · shipped in silence* 🖤
